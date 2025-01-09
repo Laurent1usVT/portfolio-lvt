@@ -1,4 +1,11 @@
 ---
+title: Lars van Folio
+description: This is the portfolio/blog of Lars van Tol. 
+date: 2025-01-09
+---
+
+
+---
 Welcome to the Lars van Folio
 ---
 
